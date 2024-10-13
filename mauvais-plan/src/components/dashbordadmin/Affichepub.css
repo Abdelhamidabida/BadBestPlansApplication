@@ -1,0 +1,44 @@
+.alla {
+    display: flex;
+    background: #eae7e7;
+}
+
+
+.pagination {
+    color: brown;
+    margin-left: 200px;
+    width: 100px;
+}
+
+.bott {
+    display: grid;
+}
+
+.zouz {
+    display: grid;
+}
+
+
+
+.table-container {
+    width: 100vw;
+    overflow-x: auto;
+}
+
+.affiche-entre-container {
+    height: 100vh;
+    display: flex;
+    
+}
+
+.table-pagination-container {
+    flex-grow: 1;
+}
+.pag1{
+    margin-top: 17px;
+    margin-left: 245px;
+}
+.pag15{
+    margin-top: 17px;
+    margin-left: -250px;
+}

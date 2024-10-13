@@ -1,0 +1,80 @@
+.dash-nav {
+  background: #b8ccb4;
+  height: 500px;
+  margin-top: 1%;
+}
+
+.register .col-2 img {
+  width: 680px;
+  height: 83%;
+
+}
+
+@media screen and (min-width: 860px) {
+  .register .col-2 img {
+    display: initial;
+  }
+}
+
+.menu-vertical {
+  color: #fee57d;
+  width: 245px;
+  background-color: #1b1b18;
+  border-right: 1px solid #000;
+  border-left: 20px solid #fefefe;
+  padding: 10px;
+  border-bottom: 10px #eec13b;
+  height: 713px;
+}
+
+.menu-vertical ul {
+  list-style: none;
+  padding: 0;
+  margin-top:40px;
+}
+
+.menu-vertical li {
+  font-size: 18px;
+  padding: 15px;
+  border-radius: 46px;
+  margin-bottom: 52px;
+  cursor: pointer;
+  border-bottom: 3px solid;
+  border-color: #f6f8f8;
+}
+
+
+.menu-vertical li:hover {
+  background-color: #ffffff;
+}
+
+.kol {
+  display: flex;
+}
+
+.fromm {
+  margin-left: 355px;
+  margin-top: 88px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 540px;
+  padding: 35px;
+}
+
+.bunk {
+  margin-top: 27px;
+  margin-left: 187px;
+}
+.villuu{
+  margin-top: 24px;
+  margin-left: -1px;
+}
+.admo{
+  
+    margin-top: 4px;
+    margin-left: 95px;
+    margin-bottom: 40px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 0);
+}

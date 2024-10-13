@@ -1,0 +1,136 @@
+.navbar {
+  background: linear-gradient(to right, #00BCD4, #a4dafe, #00BCD4);
+  border-bottom: 1px groove;
+  border-color: #000000;
+  height: 90px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: ui-rounded;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-top: 10px;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.navbar li a:hover {
+  background-color: #ebeaa2;
+  border-radius: 15px;
+}
+
+.search {
+  display: flex;
+  margin-left: 1144px;
+  margin-top: 28px;
+  margin-right: 141px;
+}
+
+.sea {
+  height: 38px
+}
+
+.noti {
+  background-color: aquamarine;
+  width: 80px;
+
+  margin-left: 1500px;
+
+}
+
+.con {
+  margin-left: 971px;
+}
+
+.lojo {
+  margin-left: 150px;
+  margin-top: 9px;
+  box-shadow: 5px 10px #888888;
+}
+
+.acc {
+  margin-left: 190px;
+}
+
+.avataruser {
+  margin-top: 21px;
+  margin-left: 0px;
+  cursor: pointer
+}
+
+.accU {
+  margin-left: 170px;
+}
+
+.nmb {
+  width: 15px;
+  ;
+  height: 18px;
+  margin-top: -45px;
+  margin-left: 45px;
+  color: #fffbfb;
+  background-color: rgb(245, 199, 74);
+  padding: 2px;
+  border-radius: 50%;
+  font-size: 12px;
+  align-items: center;
+  position: absolute;
+
+}
+
+.dropdown {
+  background-color: rgb(41, 161, 161);
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  width: 183px;
+  border-radius: 5px;
+  border-color: aquamarine;
+  position: absolute;
+  right: 192px;
+}
+
+.dropdown:empty {
+  border: none;
+}
+
+.dropdown-row {
+  cursor: pointer;
+  text-align: start;
+  margin: 2px 0;
+}
+
+.dropdown1 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  width: 180px;
+  border-radius: 5px;
+  border-color: aquamarine;
+  position: absolute;
+  right: 192px;
+}
+
+.dropdown1:empty {
+  border: none;
+}
+.dropdown-row1 {
+  cursor: pointer;
+  text-align: start;
+  margin: 2px 0;
+}

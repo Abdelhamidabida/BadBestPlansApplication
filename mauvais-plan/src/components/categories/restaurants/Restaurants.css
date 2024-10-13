@@ -1,0 +1,137 @@
+.all {
+    display: flex;
+    height: 100vh;
+
+
+}
+.containerr{
+    position:relative
+}
+
+
+.motr {
+
+
+    background-color: rgb(255, 255, 255);
+    height: 140px;
+    border-radius: 20px;
+    font-size: 25px;
+    padding: 10px;
+    border: solid 1px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 1000px 180px;
+    
+
+    border: 3px dotted;
+    border-color: #29a4ba;
+
+}
+
+.trour {
+    margin-top: 25px;
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.motr {
+    display: grid;
+
+
+}
+
+.toar {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+
+.Arrr {
+    background-color: #f6e8dd;
+    border-radius: 40px;
+    margin-left: 140px;
+    width: 760px;
+    min-height: 2000px;
+}
+
+.toa2 {
+    margin-left: 10px;
+}
+
+.nomr {
+
+    margin-top: 60px;
+    margin-left: 120px;
+    width: 180px;
+}
+
+.selr {
+    width: 300px;
+    margin-left: 45px;
+}
+
+.sear {
+    width: 330px;
+    margin-left: 30px;
+}
+
+.searr {
+    height: 40px;
+    margin-top: 100px;
+    width: 130px;
+    margin-left: 130px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.villepo {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.zouza {
+    display: flex;
+}
+
+.r2bt {
+    display: flex;
+}
+
+.boutcomr {
+    background-color: #4fb3ea;
+    margin-left: 126px;
+    margin-top: 24px;
+    border-radius: 40px;
+    font-size: 10px;
+    border: 2px solid;
+    border-color: #dbd9d9;
+    height: 32px;
+}
+
+.boutcommm {
+    color: rgb(75, 86, 210);
+    text-decoration: none;
+}
+
+.jaime {
+    margin-top: 55px;
+    display: flex;
+}
+
+.timer {
+    margin-top: 5px;
+}
+
+.pagination3{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+
+  
+  
